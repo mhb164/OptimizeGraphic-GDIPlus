@@ -16,7 +16,6 @@ namespace Step01DrawThousandsOfLines
         public Canvas()
         {
             InitializeComponent();
-			//test
             SetStyle(ControlStyles.OptimizedDoubleBuffer, true);
             SetStyle(ControlStyles.AllPaintingInWmPaint, true);
             SetStyle(ControlStyles.UserPaint, true);
